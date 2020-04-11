@@ -15,5 +15,4 @@ i used, they kept the old mysql file structure even if they switched to the mari
 It took me a while to realise i was using the wrong file.
 
 
-By: Jonathan Lussier
-Date: April 11th 2020
+By: Jonathan Lussier, April 11th 2020
